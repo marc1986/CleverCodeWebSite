@@ -6,6 +6,7 @@
  */
 ?>
 <div id ="content">
+    
             <div id="title">
                 <span><?php echo $lang['o_nas']; ?></span>
                 <a class="whyus-window" href="#why_us_contener"><span><?php echo $lang['dlaczego_my']; ?></span></a>
